@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>AccInf</fullName>
+        <categories>Contact</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>AccInf</shortDescription>
+        <value>User Account Information</value>
+    </labels>
+    <labels>
+        <fullName>ActInt</fullName>
+        <categories>Contact</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ActInt</shortDescription>
+        <value>Active Delivery Intermission</value>
+    </labels>
+    <labels>
+        <fullName>ActSub</fullName>
+        <categories>Contact</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ActSub</shortDescription>
+        <value>Active Subscriptions</value>
+    </labels>
+</CustomLabels>
